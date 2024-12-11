@@ -7,57 +7,39 @@
 - B.Com | Jai Hind College (_Mar 2014_)
 
 ## Work Experience
-**Data Scientist @ University Clinic Jena (_Oct 2022 - Present_)**
-- Enhanced medical research by developing a TensorFlow-powered deep learning model that achieved 90% accuracy in identifying abnormalities in tissue samples
-- Implemented an Al-powered NLP pipeline incorporating BART (Bidirectional and Attention-based Transformer) large language model (LLM) to identify key findings and summarize medical research papers concerning behavioral changes in isolated rats/mice, streamlining the information access and facilitating faster knowledge synthesis
-- Utilized tools like pandas, tabula-py, PyMuPDF, and numpy to handle both scanned and non-scanned PDFs in batches for extracting critical data such as experimental protocols, results, and researcher notes
-- Developed and operationalized a machine learning model (Random Forest) predicting 30-day patient readmission risk (AUC-ROC: 0.88) using patient data. This facilitated targeted interventions to reduce readmissions and improve outcomes. (Implemented CI/CD pipeline & MLOps practices)
-- Leveraged advanced evaluation methods (classification reports, confusion matrices, AUC scores, and SHAP plots) to thoroughly assess the accuracy and explainability of predictive models used in healthcare research
-- Created custom Excel macros using Visual Basic to automate work-time record keeping for a 15-person team. This automation streamlines data entry, formatting, and reporting, significantly reducing manual effort and ensuring accurate time tracking.
+**Associate - Cash Equity and ETP Trade Support Group @ Morgan Stanley (_Jul 2022 - Dec 2023_)**
+- Demonstrated expertise in managing trade lifecycle events, including upsizes, expiries, amendments, and cash-out/buy-in processes
+- Successfully oversaw daily trade operations, ensuring accurate settlement for all trades, including complex international transactions. Proactively resolved pending and failed trades, resulting in a 10% reduction in settlement discrepancies
+- Effectively executed day-to-day Trade Operations functions, including trade matching, settlement, and optimization of broker prematching processes in complex markets
+- Managed ETP processes for the European market, overseeing issuances, realignments, and private placements. Collaborated with traders to streamline transactions, managed issuer calls, and handled delistings
+- Recognized for exceptional performance, including the efficient management of 16,000 expiries in a single day, showcasing strong organizational and attention-to-detail skills
 
-**Volunteering Data Analyst @ Mi4 People gGmbH (_Mar 2023 - Mar 2024_)**
-- Conducted in-depth EDA on loan data, revealing strong associations between loan type and borrower credit score (correlation coefficient = 0.73)
-- Conducted outlier detection of loan demand and interest rate data using time series analysis, resulting in a 20% improvement in anomaly detection
-- Boosted user engagement by 20% with interactive Power BI dashboards, leading to an increased understanding of key loan data trends and insights
-- Applied ARIMA and SARIMAX models to capture and predict seasonal trends in loan demand and interest rate data, improving forecasting accuracy by 15%
+**Team Lead - Client Service Team (EB) Prime Investment Banking @ JPMorgan Chase & Co (_Oct 2021 - Jun 2022_)**
+- Successfully collaborated with external clients, traders, and internal stakeholders to efficiently manage and resolve daily operational challenges
+- Executed global equity and convertible bond trades across ASIA, EMEA, and the US markets
+- Managed give-up trades on behalf of external clients and facilitated client onboarding for China Connect markets
+- Developed strong relationships with both internal and external stakeholders to enhance operational efficiency and client satisfaction
+- Effectively resolved settlement queries from external counterparties, clients, and settlements teams, resulting in a 20% reduction in query resolution time
+- Proactively monitored and managed unmatched trades to mitigate cutoff and BUY IN risks in ASIA markets and address risk issues in EMEA markets, leading to a 10% reduction in unmatched trades and associated risks
+  
+**Operational Analyst (Senior Financial Analyst) - Prime Brokerage (PB) Investment Banking @ JPMorgan Chase & Co (_Oct 2017 - Sep 2021_)** 
+- Successfully managed high-volume bonds, equity, and custody trades across ASIA and EMEA regions, driving a 15% increase in overall trade volume
+- Maintained strong broker and client relationships, effectively handling broker escalations and ensuring seamless process execution
+- Optimized cutoff management for ASIA and EMEA markets, considering time zone differences, leading to a 20% reduction in processing delays
+- Proactively monitored and resolved unmatched and failed trades through collaboration with internal and external teams, resulting in a 15% decrease in unresolved issues
+- Established effective daily communication with Prime Brokerage Client Service Representatives globally, providing timely updates on unmatched trades for covered clients
+- Demonstrated strong query resolution skills, addressing inquiries from counterparties, Prime Brokerage teams, and Settlement departments, leading to a 15% improvement in overall query resolution time
+- Served as a key liaison between technology and operations teams, driving process automation and achieving a 25% reduction in processing time, enhancing operational efficiency
 
-**Software Engineer Associate @ Accenture (_May 2016 - Aug 2017_)** 
-- Migrated data from a legacy system to an insurance application system using a MySQL server with 98% of the data records successfully mapped
-- Created a database schema with 20 tables indicating features such as location, insurance type, and liability
-- Conducted software testing and diagnosed technical issues, ensuring the reliability and functionality of insurance software solutions
+## Internships
 
-## Projects
+**Summer Intern @ Edelweiss Financial Securities Limited (_Jun 2016 - Aug 2016_)** 
+- Analyzed annual reports of five private banks, focusing on balance sheets, Profit and Loss statements, and Cash Flow Statements
+- Documented and compared the performance of these banks across key factors: Asset Liability Mismatch, Digital Banking, gains from foreign exchange, and non-performing assets
+- Conducted data analysis and comparison across five financial years
 
-### Deep Learning for Skin Cancer Detection: A CNN Approach with Transfer Learning and Data Augmentation
-[URL](https://github.com/MehulBafna/Computer-Vision/tree/main/Deep%20Learning%20-%20Skin%20Cancer%20Detection)
-- Built a Convolutional Neural Network (CNN) utilizing transfer learning with VGG19 for image classification with 7 labels. This model leveraged a large pre-trained image feature extractor, followed by a custom dense layer with 128 units for the specific data handling achieving 94% accuracy
-- Implemented image augmentation techniques to counteract class imbalance within the dataset of 11,000 images. This approach helped ensure the model generalizes well to unseen data, contributing to its high accuracy
-- Created a custom image data generator to streamline the training process. This optimized data loading and preprocessing, leading to faster training times and improved model performance
+## Achievements
+- Received recognition from the leadership team (Executive Director, VP) for effectively managing a high volume of 1000 Japanese government bonds and ontime settlement of these trades by liaising with the settlement team and client service team 2018
+Assisted the senior executives in understanding and restructuring the report generation process , reducing the organizational costs and manual reporting 2020
+Received a spot award for effectively communicating Morgan Stanley's workplace policies 2022
 
-<div style="text-align:center"><img src="/assets/W2.png" width="400" height="200"></div>
-
-<br/>
-
-### Content-Based Music Recommender System
-[URL](https://github.com/MehulBafna/Music-Recommender-System)
-- A Spotify dataset of over 70,000 songs was processed to extract relevant metadata (artist, track, album, genre). This data was then transformed into numerical representations using count vectorization to create feature vectors for each song.
-- Cosine similarity was computed between song vectors to identify similar tracks. The system generates top 10 song recommendations based on similarity scores.
-- Album covers were fetched using the Spotify API and integrated into the recommendations. A user-friendly interface was developed using Streamlit to display recommended songs with their corresponding album art.
-- The system employs a content-based filtering approach, recommending songs similar to the user's previously listened tracks or preferred genres, without requiring explicit user ratings or behavior data.
-
-<div style="text-align:center"><img src="/assets/M11.png" width="400" height="200"></div>
-
-<br/>
-
-### Streamlit Text-to-Image Generator
-[URL](https://github.com/MehulBafna/Computer-Vision/tree/main/Deep%20Learning%20-%20Text-to-Image%20Generator)
-- Developed a Streamlit-based web application built upon the Stable Diffusion algorithm to generate high-quality images from text prompts
-- Leverages advanced mathematical techniques and deep learning models
-- The app efficiently combines state-of-the-art latent diffusion models, enabling users to render images from descriptive inputs. Integrated text conditioning and optimized the model for fast, accurate image generation.
-
-### Principal Component Analysis (PCA)
-[URL](https://github.com/MehulBafna/Principal-Component-Analysis)
-- Developed a robust PCA program in Python to perform dimensionality reduction on large datasets
-- Implemented the computation of the variance-covariance matrix to understand the relationship between different features in the dataset
-- Developed algorithm to compute eigenvalues and eigenvectors, enabling the identification of principal components
-- Created plots to visualize the principal components and the explained variance, aiding in better data interpretation
