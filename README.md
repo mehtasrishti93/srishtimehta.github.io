@@ -39,7 +39,8 @@
 - Conducted data analysis and comparison across five financial years
 
 ## Achievements
-- Received recognition from the leadership team (Executive Director, VP) for effectively managing a high volume of 1000 Japanese government bonds and ontime settlement of these trades by liaising with the settlement team and client service team 2018
-- Assisted the senior executives in understanding and restructuring the report generation process , reducing the organizational costs and manual reporting 2020
-- Received a spot award for effectively communicating Morgan Stanley's workplace policies 2022
+- **2018**: Received recognition from the leadership team (Executive Director, VP) for effectively managing a high volume of 1000 Japanese government bonds and on-time settlement of these trades by liaising with the settlement team and client service team.
+- **2020**: Assisted the senior executives in understanding and restructuring the report generation process, reducing the organizational costs and manual reporting.
+- **2022**: Received a spot award for effectively communicating Morgan Stanley's workplace policies.
+
 
