@@ -1,6 +1,6 @@
 # Senior Associate/Vice President - Investment Banking
 
-#### Technical Skills: Microsoft Excel, Microsoft Powerpoint
+#### Technical Skills: Microsoft Excel, Microsoft Powerpoint, Investment Banking, Trade Operations, Settlement Accuracy, Trade Allocations, Complex Market Handling
 
 ## Education							       		
 - MBA, Finance	| Lala Lajpat Rai Institute of Management	(_May 2017_)		        		
@@ -40,6 +40,6 @@
 
 ## Achievements
 - Received recognition from the leadership team (Executive Director, VP) for effectively managing a high volume of 1000 Japanese government bonds and ontime settlement of these trades by liaising with the settlement team and client service team 2018
-Assisted the senior executives in understanding and restructuring the report generation process , reducing the organizational costs and manual reporting 2020
-Received a spot award for effectively communicating Morgan Stanley's workplace policies 2022
+- Assisted the senior executives in understanding and restructuring the report generation process , reducing the organizational costs and manual reporting 2020
+- Received a spot award for effectively communicating Morgan Stanley's workplace policies 2022
 
